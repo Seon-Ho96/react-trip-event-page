@@ -1,0 +1,87 @@
+.mainimg {
+  position: absolute;
+  width: 416px;
+  height: 183.74px;
+  left: 0px;
+  top: 259.26px;
+}
+
+.cotrip {
+  /* COTRIP */
+
+  position: absolute;
+  width: 94px;
+  height: 17.05px;
+  left: 42px;
+  top: 37px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+
+  color: #23672a;
+}
+
+.mainjeju {
+  /* Jeju */
+
+  position: absolute;
+  width: 124px;
+  height: 115px;
+  left: 75px;
+  top: 61px;
+
+  font-family: Rock Salt;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 115px;
+  /* identical to box height */
+
+  letter-spacing: -0.03em;
+
+  color: #fcd937;
+
+  border: 1px solid #fac541;
+}
+.maintitle {
+  /* 인생제주 */
+
+  position: absolute;
+  width: 279px;
+  height: 91.87px;
+  left: 60px;
+  top: 166.43px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 79px;
+  line-height: 93px;
+  letter-spacing: -0.05em;
+
+  color: #ea6327;
+
+  border: 1px solid #d25c27;
+}
+.mainsubtitle {
+  /* 쉬고 싶으면? 제주! 인생 사진도? 제주! */
+
+  position: absolute;
+  width: 198.78px;
+  height: 15.98px;
+  left: 146.7px;
+  top: 152.58px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: -0.04em;
+
+  color: #eb6223;
+}
